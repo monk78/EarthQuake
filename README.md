@@ -3,6 +3,6 @@ This app displays a list of recent earthquakes in the world from the U.S. Geolog
 ## API
 Info on the USGS Earthquake API available at: https://earthquake.usgs.gov/fdsnws/event/1/
 ## Tools
-Android SDK v23
-Android Build Tools v23.0.2
-Android Support Repository v23.4.0
+Android SDK v23 <br>
+Android Build Tools v23.0.2 <br>
+Android Support Repository v23.4.0 <br>
